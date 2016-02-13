@@ -1,2 +1,2 @@
 
-Create a nw branch is quick..
+Create a nw branch is quick AND simple.
